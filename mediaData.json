@@ -1,0 +1,16 @@
+{
+    "media": [
+        {
+          "name": "Tom",
+          "type": "Image"
+        },
+        {
+          "name": "Tom",
+          "type": "Image"
+        },
+        {
+          "name": "Nick",
+          "type": "Video"
+        }
+    ]
+}
