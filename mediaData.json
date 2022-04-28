@@ -5,16 +5,24 @@
           "type": "Image"
         },
         {
-          "name": "idle-b.png",
-          "type": "Image"
-        },
-        {
           "name": "Survey -0a.png",
           "type": "Image"
         },
         {
-          "name": "Survey -0b.png",
+          "name": "Survey -1.png",
           "type": "Image"
+        },
+        {
+          "name": "Survey -2.png",
+          "type": "Image"
+        },
+        {
+          "name": "Survey -3a.png",
+          "type": "Image"
+        },
+        {
+          "name": "Survey -0b.png",
+          "type": "Video"
         }
     ]
 }
