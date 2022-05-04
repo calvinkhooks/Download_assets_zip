@@ -1,7 +1,11 @@
 {
   "media": [
       {
-        "name": "idle-a.png",
+        "name": "https://assets.mixkit.co/videos/preview/mixkit-a-girl-blowing-a-bubble-gum-at-an-amusement-park-1226-large.mp4",
+        "type": "Video"
+      },
+      {
+        "name": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
         "type": "Video"
       }
   ]
