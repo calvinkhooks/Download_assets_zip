@@ -1,12 +1,20 @@
 {
   "media": [
-      {
-        "name": "https://assets.mixkit.co/videos/preview/mixkit-a-girl-blowing-a-bubble-gum-at-an-amusement-park-1226-large.mp4",
-        "type": "Video"
-      },
-      {
-        "name": "https://assets.mixkit.co/videos/preview/mixkit-a-girl-blowing-a-bubble-gum-at-an-amusement-park-1226-large.mp4",
-        "type": "Video"
-      }
+    {
+      "name": "idle-a.png",
+      "type": "Image"
+    },
+    {
+      "name": "https://assets.mixkit.co/videos/preview/mixkit-a-girl-blowing-a-bubble-gum-at-an-amusement-park-1226-large.mp4",
+      "type": "Video"
+    },
+    {
+      "name": "Survey -0a.png",
+      "type": "Image"
+    },
+    {
+      "name": "https://assets.mixkit.co/videos/preview/mixkit-a-girl-blowing-a-bubble-gum-at-an-amusement-park-1226-large.mp4",
+      "type": "Video"
+    }
   ]
 }
