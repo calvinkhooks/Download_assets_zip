@@ -1,28 +1,8 @@
 {
-    "media": [
-        {
-          "name": "idle-a.png",
-          "type": "Image"
-        },
-        {
-          "name": "Survey -0a.png",
-          "type": "Image"
-        },
-        {
-          "name": "Survey -1.png",
-          "type": "Image"
-        },
-        {
-          "name": "Survey -2.png",
-          "type": "Image"
-        },
-        {
-          "name": "Survey -3.png",
-          "type": "Image"
-        },
-        {
-          "name": "Survey -3a.png",
-          "type": "Image"
-        }
-    ]
+  "media": [
+      {
+        "name": "idle-a.png",
+        "type": "Video"
+      }
+  ]
 }
